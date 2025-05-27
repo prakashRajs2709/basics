@@ -481,5 +481,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # Vim temporary swap files
-*.swp
-API/appsettings.Development.json
+#*.swp
+#API/appsettings.Development.json
